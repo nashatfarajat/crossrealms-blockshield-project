@@ -7,7 +7,7 @@ This repository contains the code and report for Task 2 of the BlockShield proje
 - **Task 2 – AI Integration of BlockShield Project.pdf**  
   Detailed report explaining the analysis of the dataset, clustering approach and results.
 
-- **Cowire EDA & Clustering.ipynb**  
+- **Cowrie EDA & Clustering.ipynb**  
   Jupyter notebook with the complete code for data preprocessing, feature extraction from timestamps, scaling, and KMeans clustering of IPs.
 
 ## Summary
