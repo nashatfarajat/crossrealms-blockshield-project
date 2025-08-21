@@ -47,4 +47,9 @@ The engine learns patterns in flow-level features and cluster-based labels, enab
 
 ## Files
 - `pcap parsing & building a model.ipynb` – Notebook containing feature extraction, labeling, and AI engine training.  
+- `pcap Model (oversampled data).ipynb` – Notebook demonstrating SMOTE oversampling applied to handle class imbalance.  
 - `Parsing Honeypot Traffic and Developing the AI Engine - report.pdf` – Detailed project report including methodology, results, and conclusions.
+
+## Update 
+- In addition to the original workflow, SMOTE oversampling was also applied to the training set in a separate experiment to handle class imbalance, allowing the Random Forest model to be trained on balanced data.
+
