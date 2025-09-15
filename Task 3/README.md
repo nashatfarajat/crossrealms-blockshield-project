@@ -16,3 +16,6 @@ The project develops baseline intrusion detection models using two feature reduc
 ## Goal
 
 To automatically identify and classify malicious network activity and benign traffic in 5G networks for enhanced cybersecurity.
+
+
+Nashat Alfarajat
