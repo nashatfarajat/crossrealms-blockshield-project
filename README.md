@@ -9,3 +9,5 @@ This repo contains projects and tasks I worked on during my internship, focusing
 - Browse each task folder for the code, notebooks, and reports.  
 - Each task contains a README or documentation explaining the approach and results.
 
+
+Nashat Alfarajat
