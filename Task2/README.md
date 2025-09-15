@@ -21,3 +21,6 @@ This repository contains the code and report for Task 2 of the BlockShield proje
 Open the Jupyter notebook to review and run the analysis step-by-step.
 
 ---
+
+
+Nashat Alfarajat
